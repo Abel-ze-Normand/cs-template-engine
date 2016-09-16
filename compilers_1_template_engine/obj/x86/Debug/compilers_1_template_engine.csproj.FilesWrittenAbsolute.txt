@@ -1,0 +1,5 @@
+/Users/abelzenormand/Projects/compilers_1_template_engine/compilers_1_template_engine/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/abelzenormand/Projects/compilers_1_template_engine/compilers_1_template_engine/bin/Debug/compilers_1_template_engine.exe.mdb
+/Users/abelzenormand/Projects/compilers_1_template_engine/compilers_1_template_engine/bin/Debug/compilers_1_template_engine.exe
+/Users/abelzenormand/Projects/compilers_1_template_engine/compilers_1_template_engine/obj/x86/Debug/compilers_1_template_engine.exe
+/Users/abelzenormand/Projects/compilers_1_template_engine/compilers_1_template_engine/obj/x86/Debug/compilers_1_template_engine.exe.mdb
