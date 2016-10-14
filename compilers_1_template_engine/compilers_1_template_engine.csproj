@@ -39,7 +39,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Parser.cs" />
     <Compile Include="Preprocessor.cs" />
-    <Compile Include="FinalBuilder.cs" />
+    <Compile Include="Token.cs" />
+    <Compile Include="TokenType.cs" />
+    <Compile Include="DirectiveProcessor.cs" />
+    <Compile Include="HardcodedResources.cs" />
+    <Compile Include="Compiler.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
